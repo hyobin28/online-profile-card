@@ -13,3 +13,7 @@ HTML, CSS를 활용해 각 멤버별 개별 프로필 페이지를 구현했습�
 -CSS: 프로필 카드 스타일링 및 레이아웃
 
 ## 🖼️ 실행 화면
+<img src="https://github.com/user-attachments/assets/457f1b24-120d-4422-9187-942578fb16cc" width="200"/>
+<img src="https://github.com/user-attachments/assets/98916fd1-e0ae-405e-981c-9ee6dd738f08" width="200"/>
+<img src="https://github.com/user-attachments/assets/ab24d067-a898-47d7-82cb-18b6266782ca" width="200"/>
+
